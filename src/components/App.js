@@ -1,3 +1,17 @@
+/*
+App
+|-ShoppingList
+    |-ItemForm
+    |-Filter
+    |-Item
+
+|-Header
+
+
+
+*/
+
+
 import React, { useState } from "react";
 import ShoppingList from "./ShoppingList";
 import Header from "./Header";
